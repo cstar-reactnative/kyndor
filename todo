@@ -1,0 +1,6 @@
+add loading indicator on API call
+add functions to replace screen rather than add on stack
+check businessRequest.js
+move all API calls to a centralise file
+create config file
+install GIS on postgres
